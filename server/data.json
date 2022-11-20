@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "alex@mail.ru",
+      "name": "Alex",
+      "password": "1234",
+      "date": "2022-11-20T14:21:25.629Z"
+    },
+    {
+      "id": 2,
+      "email": "max@mail.ru",
+      "name": "Max",
+      "password": "1234",
+      "date": "2022-11-20T14:21:40.017Z"
+    },
+    {
+      "id": 3,
+      "email": "andrey@mail.ru",
+      "name": "Andrey",
+      "password": "1234",
+      "date": "2022-11-20T14:22:08.323Z"
+    },
+    {
+      "id": 4,
+      "email": "ваыав",
+      "name": "аываыва",
+      "password": "аываы",
+      "date": "2022-11-20T17:28:34.970Z"
+    },
+    {
+      "id": 5,
+      "email": "asdasd@mail.ru",
+      "name": "asdasd",
+      "password": "1234",
+      "date": "2022-11-20T20:03:28.582Z"
+    },
+    {
+      "id": 6,
+      "email": "1234@mail.ru",
+      "name": "1234",
+      "password": "1234",
+      "date": "2022-11-20T20:03:43.250Z"
+    }
+  ],
+  "notes": [
+    {
+      "name": "What?",
+      "text": "     (*)   (*)\n=      /_       =   \n     =  =  = ",
+      "userId": 1,
+      "id": 1,
+      "data": "2022-11-20T18:02:17.362Z"
+    },
+    {
+      "name": "REACT",
+      "text": "I LOVE REACT <3",
+      "userId": 1,
+      "id": 2,
+      "data": "2022-11-20T19:32:27.389Z"
+    },
+    {
+      "name": "WHOOO",
+      "text": "Whoooooooooooooo...............",
+      "userId": 1,
+      "id": 3,
+      "data": "2022-11-20T19:32:46.785Z"
+    },
+    {
+      "name": "Andrey first note",
+      "text": "I am Andrey",
+      "userId": 3,
+      "id": 4,
+      "data": "2022-11-20T19:38:13.561Z"
+    },
+    {
+      "name": "My Favorite Song",
+      "text": "Name - Blur",
+      "userId": 3,
+      "id": 5,
+      "data": "2022-11-20T19:39:24.711Z"
+    },
+    {
+      "name": "My Favorite movie",
+      "text": "Name - Gentlemen",
+      "userId": 3,
+      "id": 6,
+      "data": "2022-11-20T19:40:32.950Z"
+    },
+    {
+      "name": "Max First Note",
+      "text": "AMAZING",
+      "userId": 2,
+      "id": 7,
+      "data": "2022-11-20T19:41:40.816Z"
+    },
+    {
+      "name": "WOW",
+      "text": "WOWOWOWOWOWOWO",
+      "userId": 2,
+      "id": 8,
+      "data": "2022-11-20T19:41:55.621Z"
+    },
+    {
+      "name": "WHAT DO U THINK?",
+      "text": "9999999999999999999999999999999999",
+      "userId": 2,
+      "id": 9,
+      "data": "2022-11-20T19:42:14.185Z"
+    }
+  ]
+}
